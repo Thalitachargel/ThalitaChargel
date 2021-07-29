@@ -9,13 +9,18 @@
 
 
 ## 2021 goals:
+
+- [ ]
 - [ ] World Domination 🌎
 
 ### Say Hi 👋:
-[][]
+![][]
 
 ### Tools and Languages:
 
 
-### Latest Blog post:
+
+# 🐱‍💻 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
