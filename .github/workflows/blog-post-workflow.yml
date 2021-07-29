@@ -13,6 +13,6 @@ jobs:
       - uses: actions/check@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.medium.com/datashawol/"
+          feed_list: "https://medium.com/@hallyupesquisa"
 
 
