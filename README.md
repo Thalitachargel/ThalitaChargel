@@ -2,15 +2,16 @@
 # I'm Thalita!
 ## About me:
 
-    - 🧍‍♀️She/her
-    - :brazil: Sad and Brazilian :brazil:
-    - Learning Japanese and Korean (안녕, 친구!)
+- 🧍‍♀️She/her
+- :brazil: Sad and Brazilian :brazil:
+- Learning Japanese and Korean (안녕, 친구!)
 
 
 
-## 2021 goals ('imagens\icons\daruma_doll_30px.png'):
+## 2021 goals:
+- [ ] World Domination 🌎
 
-### Say Hi:
+### Say Hi 👋:
 [][]
 
 ### Tools and Languages:
