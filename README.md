@@ -8,7 +8,7 @@
 
 
 
-## 2021 goals ['imagens\icons\daruma_doll_30px.png']:
+## 2021 goals !('imagens\icons\daruma_doll_30px.png'):
 
 ### Say Hi:
 [][]
