@@ -13,6 +13,7 @@ jobs:
       - uses: actions/check@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@hallyupesquisa"
+          feed_list: "https://medium.com/feed/@hallyupesquisa"
+          
 
 
