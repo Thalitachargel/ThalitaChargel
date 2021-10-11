@@ -14,9 +14,9 @@
 - [ ] World Domination 🌎
 
 ### Say Hi 👋:
-[!<img align="left" alt="chargel.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]('http://www.chargel.com.br')]
+[!(<img align="left" alt="chargel.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />)['http://www.chargel.com.br']]
 
-[![<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]('https://www.linkedin.com/in/thalitachargel')]
+[!(<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />)['https://www.linkedin.com/in/thalitachargel']]
 
 
 ### Tools and Languages:
