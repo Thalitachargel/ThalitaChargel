@@ -10,13 +10,13 @@
 
 ## 2021 goals:
 
-- [ ] Make new friends (say hi to me!)
+- [ ] Make new friends [(say hi to me!)](https://github.com/Thalitachargel/ThalitaChargel/blob/master/README.md#say-hi-)
 - [ ] World Domination 🌎
 
 ### Say Hi 👋:
 
-🌎[]('http://www.chargel.com.br')
-👔[]('https://www.linkedin.com/in/thalitachargel')
+[🌎](http://www.chargel.com.br)
+[👔](https://www.linkedin.com/in/thalitachargel)
 
 
 ### Tools and Languages:
