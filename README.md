@@ -15,7 +15,7 @@
 
 ### Say Hi 👋:
 
-[[🌎]('http://www.chargel.com.br')]
+[![🌎]('http://www.chargel.com.br')]
 [👔]('https://www.linkedin.com/in/thalitachargel')
 
 
