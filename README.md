@@ -14,10 +14,9 @@
 - [ ] World Domination 🌎
 
 ### Say Hi 👋:
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-[![website](<img align="left" alt="chargel.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />)]('http://www.chargel.com.br')
 
-[![linkedin](<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />)]('https://www.linkedin.com/in/thalitachargel')
+[🌎]('http://www.chargel.com.br')
+[👔]('https://www.linkedin.com/in/thalitachargel')
 
 
 ### Tools and Languages:
@@ -29,4 +28,8 @@
 # 🐱‍💻 Learning:
 
 - [ ] Hadoop
+
+# 📚 Reading:
+
+- [ ]  Misbehaving: The Making of Behavioral Economics - Richard Thaler
 
