@@ -24,8 +24,7 @@
 ### Tools and Languages:
 
 - 🐍 Python
-
-
+- 🗃️ SQL
 
 # 🐱‍💻 Learning:
 
@@ -34,6 +33,9 @@
 # 📚 Reading:
 
 - [ ]  Misbehaving: The Making of Behavioral Economics - Richard Thaler
+
+# Now:
+- Mentoring at HacKat;e 🤩
 
 # GIT STATS
 [![Thalita's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalitachargel&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
